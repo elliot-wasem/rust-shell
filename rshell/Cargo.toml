@@ -1,0 +1,8 @@
+[package]
+name = "rshell"
+version = "0.1.0"
+authors = ["elliot-wasem <ewasem@stevens.edu>"]
+edition = "2018"
+
+[dependencies]
+nix = "0.11"
